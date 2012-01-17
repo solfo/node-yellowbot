@@ -1,4 +1,4 @@
-# yellowbot.js - node.js yellowbot API
+# node-yellowbot.js - node.js yellowbot API
 
 Access to the [YellowBot](http://www.yellowbot.com/) APIs, including the Reputation Management APIs.
 
