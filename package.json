@@ -1,0 +1,20 @@
+{
+  "author": "Ask Bjørn Hansen <ask@develooper.com> (http://www.solfo.com/)",
+  "name": "yellowbot",
+  "description": "YellowBot API wrapper",
+  "version": "1.0.0",
+  "homepage": "https://github.com/solfo/node-yellowbot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/solfo/node-yellowbot.git"
+  },
+  "engines": {
+    "node": ">= v0.4.0"
+  },
+  "main": "lib/yellowbot.js",
+  "dependencies": {
+     "underscore": "*",
+     "querystring": "*"
+   },
+  "devDependencies": {}
+}
