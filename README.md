@@ -22,6 +22,9 @@ Access to the [YellowBot](http://www.yellowbot.com/) APIs, including the Reputat
              function(err, response) { }
     );
 
+    var login_url = api.login_url( { api_user_identifier: "abc123" } );
+
+
 ## TODO and bug reporting
 
 See the [issue tracker](http://github.com/solfo/node-yellowbot).
