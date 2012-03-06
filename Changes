@@ -1,2 +1,7 @@
+1.1.0  March 5, 2012
+  - Better error handling
+  - Handle requests with no parameters specified
+  - Add login_url() example
+
 1.0.0  January 16, 2012
   - Initial public release 
