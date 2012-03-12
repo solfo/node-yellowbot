@@ -1,3 +1,6 @@
+1.2.1  March 12, 2012
+  - Correctly calculate Content-Length for UTF8 strings
+
 1.2.0  March 10, 2012
   - New post_form() function supporting signed fileuploads
   - Send appropriate user-agent with requests
