@@ -9,7 +9,13 @@ Access to the [YellowBot](http://www.yellowbot.com/) APIs, including the Reputat
 ## Usage overview
 
     var api = require('yellowbot');
+    
     api.configure( { api_key: "abcd1234", api_secret: "def0" } );
+
+    var api2 = api.create();
+    api2.configure( ... );
+    
+    var api3 = api.create({ api_key: "abc987", ... });
 
     api.get("test/echo",
             { "foo": "bar", "another query": "parameter" },
