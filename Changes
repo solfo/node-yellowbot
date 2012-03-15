@@ -1,6 +1,7 @@
 1.3.0  March 15, 2012
   - API to create multiple objects with separate configurations
   - Make errors be null again instead of undefined
+  - Increase timeout to 45 seconds
 
 1.2.2  March 12, 2012
   - Better implementation for UTF8 length determination
