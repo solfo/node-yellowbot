@@ -1,4 +1,6 @@
+1.4.5  September 6, 2018
   - Use https:// in login_url
+
 1.4.4  January 15, 2013
   - Set Content-Length on file uploads
   - Be careful not to change the configuration hash
